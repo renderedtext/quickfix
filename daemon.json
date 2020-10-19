@@ -1,4 +1,4 @@
 {
-  "registry-mirrors": ["https://dockerhub.semaphoreci.com/"]
+  "registry-mirrors": ["https://registry.semaphoreci.com/"]
 }
 
